@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website Creation
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on projects
-- 📫  Reach me on brakatuasarea@gmail.com
+- 📫  Reach me on brakatuasarea@gmail.com or asomdwoeasare@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: I love gaming
 
