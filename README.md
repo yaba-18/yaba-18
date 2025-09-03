@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @yaba-18
-- 👀 I’m interested in Website Creation
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on projects
-- 📫  Reach me on brakatuasarea@gmail.com or asomdwoeasare@gmail.com
-- 😄 Pronouns: He
+- 👀 I’m a Software Engineer
+- 💞️ I’m looking forward to collaborating on projects
+- 📫  Reach me on brakatuasarea@gmail.com or brakatuasarea@outlook.com
 - ⚡ Fun fact: I love gaming & vibe coding
 
 <!---
